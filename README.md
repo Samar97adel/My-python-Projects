@@ -7,7 +7,9 @@ I am currently enrolled in an intensive Data science & AI diploma where I am bui
 This Folder contains my practical work, exercises, and projects developed during the diploma:
 
 **python programming:** logic puzzles, sequences, and core concepts.
-**Data science tools:** my early steps into data manipulation and Ai workflows. 
+
+**Data science tools:** my early steps into data manipulation and Ai workflows.
+
 **problem solving:** solutions to various codind challenges.
 
 #**Tech Stack**
