@@ -13,9 +13,9 @@ This Folder contains my practical work, exercises, and projects developed during
 **problem solving:** solutions to various coding challenges.
 
 #**Tech Stack**
-
-**Language:** Python
 ----
+**Language:** Python
+
 **Tools:** *Vs code, *Git, *GitHub Desktop, *Jupyter Notebooks.
 ----
 **"Continuously learning and building the future of Ai."**
